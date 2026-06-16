@@ -126,7 +126,7 @@ El programa sigue este flujo al ejecutarse:
 
 Al ser JavaScript puro para navegador, no necesita instalación ni servidor. Basta con:
 
-1. Abrir `index.html` en cualquier navegador.
+1. Abrir en cualquier navegador.
 2. El programa arranca automáticamente al cargar la página.
 3. Seguir las instrucciones de los diálogos emergentes.
 
